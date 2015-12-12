@@ -10,11 +10,18 @@ public class GameController : MonoBehaviour {
 	private float pos = 0;
 	private float ypos = 0.01f;
 
-	public static float gemCount = 0;
+	public static float coinCount = 0;
 
 	void Start () {
 
 		NextLevel ();
+
+	}
+
+	public void GetCoin(){
+
+		coinCount++;
+		Debug.Log (coinCount);
 
 	}
 
