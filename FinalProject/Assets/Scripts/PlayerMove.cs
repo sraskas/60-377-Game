@@ -34,10 +34,10 @@ public class PlayerMove : MonoBehaviour {
 
 		//To Control rotation with the mouse
 		if(Input.GetAxis("Mouse X")<0 && Input.GetMouseButton(0)){
-			transform.Rotate (Vector3.down, 100f * Time.deltaTime);
+			transform.Rotate (Vector3.down, 200f * Time.deltaTime);
 		}
-		if(Input.GetAxis("Mouse X")>0 && Input.GetMouseButton(0)){
-			transform.Rotate(Vector3.up, 100f * Time.deltaTime);
+		else if(Input.GetAxis("Mouse X")>0 && Input.GetMouseButton(0)){
+			transform.Rotate(Vector3.up, 200f * Time.deltaTime);
 		}
 
 	}
