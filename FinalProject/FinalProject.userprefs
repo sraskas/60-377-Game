@@ -1,9 +1,11 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GameController.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Pitfall.cs">
     <Files>
-      <File FileName="Assets\Scripts\GameController.cs" Line="45" Column="26" />
-      <File FileName="Assets\Scripts\MainMenuCanvas.cs" Line="8" Column="4" />
+      <File FileName="Assets\Scripts\Pitfall.cs" Line="9" Column="69" />
+      <File FileName="Assets\Scripts\GameController.cs" Line="57" Column="4" />
+      <File FileName="Assets\Scripts\MainMenuCanvas.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\FinishLine.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

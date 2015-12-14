@@ -1,19 +1,41 @@
 Base path: C:/Program Files/Unity/Editor/Data
-Pipe name: \\.\pipe\UnityShaderCompiler-64bit-1-27836
+Pipe name: \\.\pipe\UnityShaderCompiler-64bit-1-35716
 Cmd: getPlatforms
 Cmd: preprocess
-  insize=4159 outsize=1016 ok=1
+  insize=2379 outsize=1092 ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=3447 outsize=2281 kw=WATER_REFRACTIVE ok=1
+  api=4 type=0 insize=1589 outsize=1290 kw=SOFTPARTICLES_OFF ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=3447 outsize=2891 kw=WATER_REFRACTIVE ok=1
+  api=4 type=1 insize=1589 outsize=924 kw=SOFTPARTICLES_OFF ok=1
 Cmd: preprocess
-  insize=1802 outsize=527 ok=1
+  insize=2237 outsize=975 ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=1581 outsize=2200 kw= ok=1
+  api=4 type=0 insize=1561 outsize=1290 kw=SOFTPARTICLES_OFF ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=1581 outsize=2086 kw= ok=1
+  api=4 type=1 insize=1561 outsize=868 kw=SOFTPARTICLES_OFF ok=1
+Cmd: preprocess
+  insize=2274 outsize=1036 ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=1051 outsize=1266 kw= ok=1
+  api=4 type=0 insize=1537 outsize=1290 kw=SOFTPARTICLES_OFF ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=1051 outsize=965 kw= ok=1
+  api=4 type=1 insize=1537 outsize=924 kw=SOFTPARTICLES_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1642 outsize=1290 kw=SOFTPARTICLES_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1642 outsize=924 kw=SOFTPARTICLES_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1705 outsize=1290 kw=SOFTPARTICLES_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1705 outsize=924 kw=SOFTPARTICLES_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=938 outsize=4727 kw=POINT SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=938 outsize=5962 kw=POINT SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4694 outsize=3955 kw=POINT ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4694 outsize=2736 kw=POINT ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1705 outsize=2038 kw=SOFTPARTICLES_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1705 outsize=1615 kw=SOFTPARTICLES_ON ok=1
